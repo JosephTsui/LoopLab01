@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(mkdir:*)",
+      "Read(*)",
+      "Write(labs/*)",
+      "Write(reports/*)"
+    ]
+  }
+}
