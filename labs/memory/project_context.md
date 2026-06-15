@@ -18,7 +18,9 @@ LoopLab01/
 │   ├── memory/             ← 本記憶系統（Lab 2-C 建立）
 │   ├── lab-1c-tool-experiments.md
 │   ├── lab-2a-prompt-comparison.md
-│   └── lab-2b-schema.md
+│   ├── lab-2b-schema.md
+│   ├── lab-2d-error-recovery.md
+│   └── memory/             ← 跨 session 記憶系統
 ├── reports/
 │   └── file-summary.md     ← Lab 1-A 產出
 └── workflows/              ← Phase 3 起使用
